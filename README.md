@@ -16,13 +16,19 @@ Travel With Us is a simple and responsive travel website front-end project desig
 Travel With Us/
 ├── css/
 │   └── style.css               # Main stylesheet for styling the website
+
 ├── img/
 │   └── [various images]        # Images used throughout the site
+
 ├── js/
 │   └── script.js               # JavaScript file for interactivity (if any)
+
 ├── index.html                  # Homepage
+
 ├── about.html                  # About Us page
+
 ├── contact.html                # Contact Us page
+
 └── explore.html                # Explore Destinations page
 
 # 🛠️ Technologies Used
